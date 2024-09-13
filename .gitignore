@@ -1,0 +1,10 @@
+# Ignora arquivos compilados
+*.class
+
+# Ignora diretório build
+/build
+
+# Ignora arquivos de configuração IDE
+*.iml
+.idea/
+.vscode/
